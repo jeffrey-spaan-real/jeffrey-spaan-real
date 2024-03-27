@@ -25,9 +25,5 @@
 <br />
 
 <div align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/jeffrey-spaan-real/jeffrey-spaan-real/blob/output/github-contribution-grid-snake-dark.svg" />
-		<source media="(prefers-color-scheme: light)" srcset="https://github.com/jeffrey-spaan-real/jeffrey-spaan-real/blob/output/github-contribution-grid-snake.svg" />
-		<img alt="github-snake" src="https://github.com/jeffrey-spaan-real/jeffrey-spaan-real/blob/output/github-contribution-grid-snake-dark.svg" />
-	</picture>
+	<img width="1000" height="220" src="https://streak-stats.demolab.com/?user=jeffrey-spaan-real&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </div>
